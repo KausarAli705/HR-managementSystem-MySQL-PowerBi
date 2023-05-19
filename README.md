@@ -1,4 +1,5 @@
 # HR-managementSystem-MySQL-PowerBi
+![page1](https://github.com/KausarAli705/HR-managementSystem-MySQL-PowerBi/assets/73828534/b48979d8-cf4a-4daf-a339-4f855fa4bdce)
 <h2> Data Used </h2>
 Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
